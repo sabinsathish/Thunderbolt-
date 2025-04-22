@@ -1,0 +1,1 @@
+Real-Time Hand Gesture Recognition using MediaPipe and OpenCV This project uses MediaPipe and OpenCV to detect hand landmarks from a webcam feed in real-time. It recognizes simple gestures like a closed fist ("STOP") and an open hand ("GO") by analyzing finger positions. Ideal for gesture-based control systems or interactive applications.
